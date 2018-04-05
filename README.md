@@ -70,6 +70,7 @@ Thanks to these awesome people Project Bread has come this far:
 3. [@MightyK1337](https://github.com/MightyK1337)
 4. Kai Hildebrandt [@hildebrandt87](https://github.com/hildebrandt87)
 5. Vladislav Sarunov [@vsarunov](https://github.com/vsarunov)
+6. Keelyn Roberts [@real_slacker007](https://github.com/slacker007)
 
 _Note: I am not an expert developer and as a result the code-base isn't as professional as it could be. Hence, I will highly appreciate any contribution in any field regarding this project. All suggestions and issue reporting are welcome._
 
